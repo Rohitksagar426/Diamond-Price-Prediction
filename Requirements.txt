@@ -1,0 +1,11 @@
+pandas → For data loading, cleaning, and manipulation
+
+numpy → For numerical computations
+
+matplotlib → For creating visualizations
+
+seaborn → For advanced and aesthetic data visualizations
+
+scikit-learn → For building and evaluating ML models
+
+jupyter → To run and display the notebook
